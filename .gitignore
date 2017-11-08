@@ -1,0 +1,15 @@
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent
+BuildingEscape.VC.db
+*.VC.db
+Binaries/
+Saved/
+Build/
+Intermediate/
+DerivedDataCache/
+Intermediate/
+Content/StarterContent/
